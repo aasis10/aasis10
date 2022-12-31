@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aasis10
-- 👀 I’m interested in Finance
-- 🌱 I’m currently learning how to trade.
-- 💞️ I’m looking to collaborate on python.
-- 📫 How to reach me @ aasis10
+- 👋 Hi, I’m Aasis Gupta
+- 👀 I like Coding and Markets.
+- 🌱 I’m currently an aspiring Full stack developer.
+- 💞️ I’m looking to collaborate on JavaScript.
+- 📫 Reach me @ aasisgupta2468@gmail.com
 
 <!---
 aasis10/aasis10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
