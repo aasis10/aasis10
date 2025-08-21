@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aasis Gupta
-- 👀 I like Coding and Markets.
+- 👀 I like Coding and Financial Markets.
 - 🌱 I’m a Data Analyst.
 
 - 📫 Reach me at aasisgupta2468@gmail.com
